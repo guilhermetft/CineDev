@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+}
+
+body{
+    background-color: #161616;
+}
+
+/* Header */
+.header a{
+    text-decoration: none;
+    color: white;
+}
+
+/* Footer */
+.footer{
+    background-color: #232323;
+    width: 100%;
+    position: absolute;
+    bottom: 0%;  
+}
+
+.footer li{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.footer a{
+    text-decoration: none;
+    color: white;
+}
